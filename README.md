@@ -55,7 +55,7 @@ Projeto em desenvolvimento para a disciplina de Programação Web do curso de En
 
 - Node.js e npm.
 - Express.js.
-- MongoDB.
+- MySQL.
 
 ## Desenvolvedor / Contribuintes
 
