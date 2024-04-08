@@ -46,7 +46,7 @@ Projeto em desenvolvimento para a disciplina de Programação Web do curso de En
   <a href="https://www.w3schools.com/js/default.asp"><img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
   <a href="https://nodejs.org/docs/latest/api/"><img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
   <a href="https://expressjs.com/"><img align="center" alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /></a>
-  <a href="https://www.mongodb.com/docs/"><img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/docs/"><img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 </div><br/>
 
 ## Configurações do projeto
